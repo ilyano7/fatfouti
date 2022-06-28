@@ -1,0 +1,25 @@
+com/medianet/miniproject/BuildConfig.java
+ com.medianet.miniproject.BuildConfig
+com/medianet/miniproject/DashboardFragment.java
+ com.medianet.miniproject.DashboardFragment
+ com.medianet.miniproject.DashboardFragment$1
+ com.medianet.miniproject.DashboardFragment$1$1
+com/medianet/miniproject/GameAdapter.java
+ com.medianet.miniproject.GameAdapter
+ com.medianet.miniproject.GameAdapter$ItemClickListener
+ com.medianet.miniproject.GameAdapter$ViewHolder
+com/medianet/miniproject/FavoriteFragment.java
+ com.medianet.miniproject.FavoriteFragment
+ com.medianet.miniproject.FavoriteFragment$1
+ com.medianet.miniproject.FavoriteFragment$1$1
+com/medianet/miniproject/InscriptionActivity.java
+ com.medianet.miniproject.InscriptionActivity
+com/medianet/miniproject/model/User.java
+ com.medianet.miniproject.model.User
+com/medianet/miniproject/MainActivity.java
+ com.medianet.miniproject.MainActivity
+com/medianet/miniproject/model/Game.java
+ com.medianet.miniproject.model.Game
+com/medianet/miniproject/HomeActivity.java
+ com.medianet.miniproject.HomeActivity
+ com.medianet.miniproject.HomeActivity$1
